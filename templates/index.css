@@ -1,0 +1,22 @@
+<style>
+  body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .card {
+    transition: 0.3s;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  .btn-primary {
+    background: linear-gradient(45deg, #4e73df, #224abe);
+    border: none;
+  }
+
+  .btn-primary:hover {
+    opacity: 0.9;
+  }
+</style>
