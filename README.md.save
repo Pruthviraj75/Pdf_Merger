@@ -1,6 +1,13 @@
 <<<<<<< HEAD
-# File_Rename-DesktopApp
+# Pdf_Merger
 =======
+<<<<<<< HEAD
+# Pdf_Merger
+=======
+<<<<<<< HEAD
+# Pdf_Merger
+=======
+<<<<<<< HEAD
 # 📄 Pdf Merger - Using JS and Bootstrap
 
 This project is a **PDF Merger Web App** built using **HTML, CSS, JavaScript**, and styled with **Bootstrap**. It allows users to upload multiple PDF files and merge them into a single PDF file.
@@ -11,4 +18,9 @@ This project is a **PDF Merger Web App** built using **HTML, CSS, JavaScript**, 
 - Download the merged PDF
 - Responsive design using **Bootstrap**
 - User-friendly interface
->>>>>>> c23e2a308d4eb592a7312b69883385c76737918d
+=======
+# Pdf_Merger-Using-JS-and-bootstrap
+>>>>>>> c13ac59 (PDF Merger)
+>>>>>>> 42f32ec (Initial commit)
+>>>>>>> 995d6e3 (Initial commit)
+>>>>>>> 751a85d (commit changes)
